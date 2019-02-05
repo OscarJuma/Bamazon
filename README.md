@@ -1,5 +1,5 @@
 # Bamazon
 
-![alt text](images\purchase.JPG)
+![Product successfully purchased](images\purchase.JPG)
 
-![alt text](images\sql-display.JPG)
+![SQL table display](images\sql-display.JPG)
